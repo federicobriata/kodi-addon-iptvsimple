@@ -1,3 +1,19 @@
+v1.9.14
+- language files from Transifex
+- minor changes to conform with C++11
+
+v1.9.12
+- added getBackendHostname function
+
+v1.9.10
+- change library name to Kodi
+
+v1.9.9
+- fixed deadlock when activating the addon on some darwin (osx, ios) runtimes
+
+v1.9.6
+- updated to API v1.9.2
+
 v1.9.3
 - added setting to disable cache m3u/epg
 - added support <icon src=""/> for programme in epg
